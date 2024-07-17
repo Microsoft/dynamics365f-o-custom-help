@@ -1,23 +1,14 @@
 
 # Tools in the toolkit
 
-The toolkit is available at [https://github.com/microsoft/dynamics365f-o-custom-help/](https://github.com/microsoft/dynamics365f-o-custom-help/). The repo contains the following tools and the source code for the tools:
+This repo contains Microsoft provides sample tools and scripts that can help you covert content and configure the Help pane to include your custom Help for solutions with Microsoft Dynamics 365 Finance, Dynamics 365 Commerce, or Dynamics 3665 Supply Chain Management. Learn more at [Custom Help overview](https://learn.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/help/custom-help-overview). The repo contains the following tools and the source code for the tools:
 
-## ConvertHtmlToJson tool
+- **ConvertHtmlToJson** tool
+- **HtmlLocaleChanger** tool
+- **Help Pane extension** Visual Studio project
+- AX 2012 metadata scripts
 
-For more information, see https://docs.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/help/custom-help-toolkit-converthtmltojson
-
-## HtmlLocaleChanger tool
-
-For more information, see https://docs.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/help/custom-help-toolkit-htmllocalechanger
-
-## "Help Pane extension" Visual Studio project
-
-For more information, see https://docs.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/help/connect-help-pane
-
-## AX 2012 metadata scripts
-
-For more information, see https://docs.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/help/migrate-dynamicsax2012
+For more information and guidance on when and how to use the tools, see [Custom Help overview](https://docs.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/help/custom-help-overview) on the Microsoft Learn site.
 
 # Contributing
 
